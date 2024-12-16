@@ -4,7 +4,7 @@ I'm Sally Akti, a human system engineer with a passion for data science and data
 
 Portfolio Projects
 =======================
-Personal projects and experiments at the intersection of data science, machine learning, and deep learning, demonstrating my passion for leveraging data-driven insights to drive decision-making.
+Exploring the frontiers of data science, machine learning, and deep learning through personal projects and experiments that showcase my passion for data-driven decision making.
 
 Projects
 ------------
