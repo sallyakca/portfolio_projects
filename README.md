@@ -47,7 +47,7 @@ This project constructs and trains various deep learning models, primarily Effic
 
 [pytorch_model_comparision_food_101_paper_replication]((pytorch_model_comparision_food_101_paper_replication))
 
-**Project 4:Random Forest Regression: Bulldozer Price Predictions**
+**Project 4: Random Forest Regression: Bulldozer Price Predictions**
 
 This project uses machine learning to predict the sale price of bulldozers based on their features and previous sales data. The goal is to minimize the error between predicted and actual prices using a RandomForestRegressor model and the RMSLE evaluation metric.
 
@@ -58,11 +58,16 @@ This project uses machine learning to predict the sale price of bulldozers based
    
 [random_forest_regressor_predicting_bulldozer_prices]((random_forest_regressor_predicting_bulldozer_prices))
 
-[Project 5 Name]
-Brief description of Project 3
-Technologies used: [list technologies]
-Features: [list key features]
-[Link to Project 3 repository or live demo]((link unavailable))
+Project 5 Name
+
+This project uses Natural Language Processing (NLP) techniques in TensorFlow to predict disasters based on text data from sources like social media and news. By building and evaluating different NLP models, it aims to identify potential disaster situations from textual information and provide valuable insights for disaster management.
+
+**Technologies used:** 
+1. Programming Language and Environment: Python, Google Colab, TensorBoard
+2. Libraries and Frameworks: TensorFlow, TensorFlow Hub, Pandas, Scikit-learn, Matplotlib
+3. Data Sources: Kaggle Natural Language Processing Dataset
+   
+[tensorflow_nlp_twitter_experiment_series]((tensorflow_nlp_twitter_experiment_series))
 
 
 Contact
