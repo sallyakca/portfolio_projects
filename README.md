@@ -17,7 +17,7 @@ This project investigates the impact of the Volkswagen emissions scandal, also k
 **Technologies used:** 
 1. Programming Language and Environment: Python, Google Colab.
 2. Libraries and Frameworks: Google Causal Impact, yfinance, Pandas, Numpy, Seaborn
-3. Data Sources: Yahoo Finance
+3. Data Source: Yahoo Finance
 
 [google_causal_impact_Volkswagen_stock_price_project](google_causal_impact_Volkswagen_stock_price_project)
 
@@ -30,7 +30,7 @@ This project utilizes machine learning to predict the presence of heart disease 
 **Technologies used:** 
 1. Programming Language and Environment: Python, Google Colab.
 2. Libraries and Frameworks: Pandas, Numpy, Scikit-learn, Matplotlib
-3. Data Sources: Kaggle Heart Disease Dataset
+3. Data Source: Kaggle Heart Disease Dataset
 
 [logistic_regression_heart_disease_prediction_model]((logistic_regression_heart_disease_prediction_model))
 
@@ -43,7 +43,7 @@ This project constructs and trains various deep learning models, primarily Effic
 **Technologies used:** 
 1. Programming Language and Environment: Python, Google Colab.
 2. Libraries and Frameworks: Pytorch, Torchvision, Matplotlib
-3. Data Sources: PyTorch Food 101 Dataset
+3. Data Source: PyTorch Food 101 Dataset
 
 [pytorch_model_comparision_food_101_paper_replication]((pytorch_model_comparision_food_101_paper_replication))
 
@@ -54,7 +54,7 @@ This project uses machine learning to predict the sale price of bulldozers based
 **Technologies used:** 
 1. Programming Language and Environment: Python, Google Colab.
 2. Libraries and Frameworks: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn 
-3. Data Sources: Kaggle Bulldozer Price Dataset
+3. Data Source: Kaggle Bulldozer Price Dataset
    
 [random_forest_regressor_predicting_bulldozer_prices]((random_forest_regressor_predicting_bulldozer_prices))
 
@@ -65,7 +65,7 @@ This project uses Natural Language Processing (NLP) techniques in TensorFlow to 
 **Technologies used:** 
 1. Programming Language and Environment: Python, Google Colab, TensorBoard
 2. Libraries and Frameworks: TensorFlow, TensorFlow Hub, Pandas, Scikit-learn, Matplotlib
-3. Data Sources: Kaggle Natural Language Processing Dataset
+3. Data Source: Kaggle Natural Language Processing Dataset
    
 [tensorflow_nlp_twitter_experiment_series]((tensorflow_nlp_twitter_experiment_series))
 
